@@ -8,5 +8,5 @@ var app = new Vue({
   },
 });
 
-var color = tinycolor("red");
+
 
