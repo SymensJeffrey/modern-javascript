@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/SymensJeffrey/modern-javascript#readme",
   "dependencies": {
+    "mathjs": "^9.4.4",
     "moment": "^2.29.1",
     "tinycolor": "^0.0.1"
   },
