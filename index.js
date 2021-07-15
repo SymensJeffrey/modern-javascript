@@ -1,1 +1,12 @@
-console.log("hello");
+/* global Vue, axios */
+var app = new Vue({
+  el: "#app",
+  data: function () {
+    return {
+      message: "Hello from JavaScript!",
+    };
+  },
+});
+
+var color = tinycolor("red");
+
